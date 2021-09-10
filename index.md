@@ -1,10 +1,10 @@
-## Bienvenue sur le wiki de Osaki
+### Bienvenue sur le wiki de Osaki
 
 Ici vous allez tout savoir sur le bot Discord Osaki !
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 1. Comment mettre le bot sur son serveur Discord ?
+P
+Pour mettre le bot sur votre serveur Discord, il faut l'inviter à l'aide d'un lien. [Clique ici !](https://dsc.gg/osaki)
 
 ```markdown
 Syntax highlighted code block

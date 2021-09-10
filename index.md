@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenue sur le wiki de Osaki
 
-You can use the [editor on GitHub](https://github.com/osaki-bot/wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ici vous allez tout savoir sur le bot Discord Osaki !
 
 ### Markdown
 
